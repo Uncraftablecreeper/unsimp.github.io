@@ -1,0 +1,36 @@
+/* FILEPATH: /c:/Users/un/website-redesign/style.css */
+
+/* Reset default styles */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Global styles */
+body, body p {
+  font-family: 'Courier New', Courier, monospace, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: white;
+  font-weight: bold;
+}
+
+/* Add your custom styles below this line */
+
+
+.spacer {
+  display: block;
+  height: 20px;
+  width: 100%;
+}
+.divider {
+  display: block;
+  height: 45px;
+  width: 1px;
+  background-color: #ccc;
+}
+.buttons {
+  display: inline-block;
+  height: 31px;
+  width: 88px;
+}
